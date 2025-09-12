@@ -13,7 +13,7 @@ import Profile from "./components/profile/Profile";
 import Footer from "./components/footer/Footer";
 
 function App() {
-  const [isAuthenticated, setIsAuthenticated] = useState(true);
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
 
   // validate Authentication
   const handleLogin = (userdata) => {
