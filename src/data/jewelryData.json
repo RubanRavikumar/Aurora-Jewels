@@ -1,0 +1,489 @@
+{
+  "categories": [
+    {
+      "id": "necklaces",
+      "title": "Necklaces",
+      "description": "Beautiful gold, silver, and gemstone necklaces for every occasion.",
+      "products": [
+        {
+          "id": "n1",
+          "name": "Emerald Pendant Necklace",
+          "price": 19999,
+          "currency": "INR",
+          "material": "18k Gold, Emerald",
+          "inStock": true,
+          "image": "/imagesJewelry/Necklaces1.jpg",
+          "description": "Elegant gold chain with a natural emerald pendant."
+        },
+        {
+          "id": "n2",
+          "name": "Silver Heart Necklace",
+          "price": 5999,
+          "currency": "INR",
+          "material": "Sterling Silver, Zircon",
+          "inStock": true,
+          "image": "/imagesJewelry/Necklaces2.jpg",
+          "description": "Sterling silver chain with heart-shaped zircon pendant."
+        },
+        {
+          "id": "n3",
+          "name": "Pearl Choker Necklace",
+          "price": 8999,
+          "currency": "INR",
+          "material": "Pearls, Silver",
+          "inStock": true,
+          "image": "/imagesJewelry/Necklaces3.jpg",
+          "description": "Classic pearl choker, perfect for parties and weddings."
+        },
+        {
+          "id": "n4",
+          "name": "Diamond Solitaire Necklace",
+          "price": 24999,
+          "currency": "INR",
+          "material": "Diamond, Platinum",
+          "inStock": false,
+          "image": "/imagesJewelry/Necklaces4.jpg",
+          "description": "Single diamond pendant on a platinum chain."
+        },
+        {
+          "id": "n5",
+          "name": "Kundan Bridal Necklace",
+          "price": 35999,
+          "currency": "INR",
+          "material": "Gold-plated, Kundan Stones",
+          "inStock": true,
+          "image": "/imagesJewelry/Necklaces5.jpg",
+          "description": "Traditional kundan bridal necklace with intricate detailing."
+        },
+        {
+          "id": "n6",
+          "name": "Rose Gold Pendant",
+          "price": 10999,
+          "currency": "INR",
+          "material": "Rose Gold",
+          "inStock": true,
+          "image": "/imagesJewelry/Necklaces6.jpg",
+          "description": "Minimal rose gold pendant necklace for daily wear."
+        },
+        {
+          "id": "n7",
+          "name": "Multi-layered Chain Necklace",
+          "price": 4999,
+          "currency": "INR",
+          "material": "Alloy, Gold Plated",
+          "inStock": true,
+          "image": "/imagesJewelry/Necklaces7.jpg",
+          "description": "Trendy layered necklace for casual and party looks."
+        },
+        {
+          "id": "n8",
+          "name": "Temple Jewellery Necklace",
+          "price": 27999,
+          "currency": "INR",
+          "material": "Gold, Semi-Precious Stones",
+          "inStock": true,
+          "image": "/imagesJewelry/Necklaces8.jpg",
+          "description": "Traditional South Indian temple jewellery design."
+        },
+        {
+          "id": "n9",
+          "name": "Crystal Charm Necklace",
+          "price": 3999,
+          "currency": "INR",
+          "material": "Silver, Crystals",
+          "inStock": true,
+          "image": "/imagesJewelry/Necklaces9.jpg",
+          "description": "Delicate silver chain with sparkling crystal charms."
+        }
+      ]
+    },
+    {
+      "id": "bangles",
+      "title": "Bangles",
+      "description": "Traditional and modern bangles to complement your style.",
+      "products": [
+        {
+          "id": "b1",
+          "name": "Gold Kada Bangle",
+          "price": 25999,
+          "currency": "INR",
+          "material": "22k Gold",
+          "inStock": true,
+          "image": "/imagesJewelry/bangles1.jpg",
+          "description": "Thick gold kada bangle with fine finish."
+        },
+        {
+          "id": "b2",
+          "name": "Crystal Stone Bangle",
+          "price": 3999,
+          "currency": "INR",
+          "material": "Alloy, Crystals",
+          "inStock": true,
+          "image": "/imagesJewelry/bangles2.jpg",
+          "description": "Stylish bangle with sparkling crystal stones."
+        },
+        {
+          "id": "b3",
+          "name": "Silver Oxidised Bangles",
+          "price": 2999,
+          "currency": "INR",
+          "material": "Sterling Silver",
+          "inStock": true,
+          "image": "/imagesJewelry/bangles3.jpg",
+          "description": "Traditional oxidised silver bangles with antique design."
+        },
+        {
+          "id": "b4",
+          "name": "Diamond Studded Bangles",
+          "price": 34999,
+          "currency": "INR",
+          "material": "Gold, Diamond",
+          "inStock": false,
+          "image": "/imagesJewelry/bangles4.jpg",
+          "description": "Luxurious diamond bangles for weddings and functions."
+        },
+        {
+          "id": "b5",
+          "name": "Kundan Bridal Bangles",
+          "price": 17999,
+          "currency": "INR",
+          "material": "Gold-plated, Kundan",
+          "inStock": true,
+          "image": "/imagesJewelry/bangles5.jpg",
+          "description": "Heavy kundan work bridal bangles."
+        },
+        {
+          "id": "b6",
+          "name": "Pearl Bangle Set",
+          "price": 6999,
+          "currency": "INR",
+          "material": "Pearls, Alloy",
+          "inStock": true,
+          "image": "/imagesJewelry/bangles6.jpg",
+          "description": "Elegant pearl-studded bangle set."
+        },
+        {
+          "id": "b7",
+          "name": "Rose Gold Sleek Bangle",
+          "price": 4999,
+          "currency": "INR",
+          "material": "Rose Gold Plated",
+          "inStock": true,
+          "image": "/imagesJewelry/bangles7.jpg",
+          "description": "Minimal rose gold bangle for daily wear."
+        },
+        {
+          "id": "b8",
+          "name": "Temple Design Bangles",
+          "price": 22999,
+          "currency": "INR",
+          "material": "Gold, Semi-Precious Stones",
+          "inStock": true,
+          "image": "/imagesJewelry/bangles8.jpg",
+          "description": "Traditional temple design bangles with ruby stones."
+        },
+        {
+          "id": "b9",
+          "name": "Fashion Alloy Bangles",
+          "price": 1999,
+          "currency": "INR",
+          "material": "Alloy",
+          "inStock": true,
+          "image": "/imagesJewelry/bangles9.jpg",
+          "description": "Trendy alloy bangles for casual outings."
+        }
+      ]
+    },
+    {
+      "id": "earrings",
+      "title": "Earrings",
+      "description": "From studs to chandeliers, our earrings add sparkle to any look.",
+      "products": [
+        {
+          "id": "e1",
+          "name": "Diamond Stud Earrings",
+          "price": 15999,
+          "currency": "INR",
+          "material": "Diamond, Platinum",
+          "inStock": true,
+          "image": "/imagesJewelry/Earrings1.jpg",
+          "description": "Classic platinum studs with solitaire diamonds."
+        },
+        {
+          "id": "e2",
+          "name": "Pearl Drop Earrings",
+          "price": 4999,
+          "currency": "INR",
+          "material": "Pearl, Sterling Silver",
+          "inStock": true,
+          "image": "/imagesJewelry/Earrings2.jpg",
+          "description": "Elegant pearl drop earrings with silver hooks."
+        },
+        {
+          "id": "e3",
+          "name": "Gold Jhumka Earrings",
+          "price": 13999,
+          "currency": "INR",
+          "material": "22k Gold",
+          "inStock": true,
+          "image": "/imagesJewelry/Earrings3.jpg",
+          "description": "Traditional gold jhumkas with intricate detailing."
+        },
+        {
+          "id": "e4",
+          "name": "Kundan Bridal Earrings",
+          "price": 9999,
+          "currency": "INR",
+          "material": "Gold-plated, Kundan",
+          "inStock": true,
+          "image": "/imagesJewelry/Earrings4.jpg",
+          "description": "Heavy kundan earrings for weddings."
+        },
+        {
+          "id": "e5",
+          "name": "Chandelier Earrings",
+          "price": 6999,
+          "currency": "INR",
+          "material": "Alloy, Crystals",
+          "inStock": true,
+          "image": "/imagesJewelry/Earrings5.jpg",
+          "description": "Stylish chandelier earrings for party looks."
+        },
+        {
+          "id": "e6",
+          "name": "Rose Gold Hoops",
+          "price": 3999,
+          "currency": "INR",
+          "material": "Rose Gold Plated",
+          "inStock": true,
+          "image": "/imagesJewelry/Earrings6.jpg",
+          "description": "Trendy rose gold hoop earrings."
+        },
+        {
+          "id": "e7",
+          "name": "Silver Oxidised Jhumkas",
+          "price": 2999,
+          "currency": "INR",
+          "material": "Oxidised Silver",
+          "inStock": true,
+          "image": "/imagesJewelry/Earrings7.jpg",
+          "description": "Handcrafted oxidised silver jhumkas."
+        },
+        {
+          "id": "e8",
+          "name": "Temple Jewellery Earrings",
+          "price": 14999,
+          "currency": "INR",
+          "material": "Gold, Semi-Precious Stones",
+          "inStock": true,
+          "image": "/imagesJewelry/Earrings8.jpg",
+          "description": "Traditional South Indian temple earrings."
+        },
+        {
+          "id": "e9",
+          "name": "Crystal Stud Earrings",
+          "price": 1999,
+          "currency": "INR",
+          "material": "Crystals, Alloy",
+          "inStock": true,
+          "image": "/imagesJewelry/Earrings9.jpg",
+          "description": "Simple crystal stud earrings for daily wear."
+        }
+      ]
+    },
+    {
+      "id": "rings",
+      "title": "Rings",
+      "description": "Engagement rings, wedding bands, and statement rings.",
+      "products": [
+        {
+          "id": "r1",
+          "name": "Diamond Engagement Ring",
+          "price": 45999,
+          "currency": "INR",
+          "material": "Diamond, Platinum",
+          "inStock": true,
+          "image": "/imagesJewelry/Ring1.jpg",
+          "description": "Elegant solitaire engagement ring."
+        },
+        {
+          "id": "r2",
+          "name": "Ruby Cocktail Ring",
+          "price": 21999,
+          "currency": "INR",
+          "material": "18k Gold, Ruby",
+          "inStock": true,
+          "image": "/imagesJewelry/Ring2.jpg",
+          "description": "Bold cocktail ring with a large ruby."
+        },
+        {
+          "id": "r3",
+          "name": "Gold Wedding Band",
+          "price": 13999,
+          "currency": "INR",
+          "material": "22k Gold",
+          "inStock": true,
+          "image": "/imagesJewelry/Ring3.jpg",
+          "description": "Classic plain gold wedding band."
+        },
+        {
+          "id": "r4",
+          "name": "Kundan Statement Ring",
+          "price": 8999,
+          "currency": "INR",
+          "material": "Gold-plated, Kundan",
+          "inStock": true,
+          "image": "/imagesJewelry/Ring4.jpg",
+          "description": "Large kundan stone statement ring."
+        },
+        {
+          "id": "r5",
+          "name": "Rose Gold Promise Ring",
+          "price": 4999,
+          "currency": "INR",
+          "material": "Rose Gold",
+          "inStock": true,
+          "image": "/imagesJewelry/Ring5.jpg",
+          "description": "Simple rose gold promise ring."
+        },
+        {
+          "id": "r6",
+          "name": "Pearl Adjustable Ring",
+          "price": 2999,
+          "currency": "INR",
+          "material": "Pearl, Alloy",
+          "inStock": true,
+          "image": "/imagesJewelry/Ring6.jpg",
+          "description": "Stylish adjustable pearl ring."
+        },
+        {
+          "id": "r7",
+          "name": "Emerald Ring",
+          "price": 16999,
+          "currency": "INR",
+          "material": "18k Gold, Emerald",
+          "inStock": true,
+          "image": "/imagesJewelry/Ring7.jpg",
+          "description": "Elegant emerald studded ring."
+        },
+        {
+          "id": "r8",
+          "name": "Oxidised Silver Ring",
+          "price": 1999,
+          "currency": "INR",
+          "material": "Oxidised Silver",
+          "inStock": true,
+          "image": "/imagesJewelry/Ring8.jpg",
+          "description": "Handcrafted oxidised silver ring."
+        },
+        {
+          "id": "r9",
+          "name": "Crystal Band Ring",
+          "price": 2499,
+          "currency": "INR",
+          "material": "Crystals, Alloy",
+          "inStock": true,
+          "image": "/imagesJewelry/Ring9.jpg",
+          "description": "Trendy crystal band ring."
+        }
+      ]
+    },
+    {
+      "id": "bracelets",
+      "title": "Bracelets",
+      "description": "Delicate and bold bracelets designed to add charm to your wrist.",
+      "products": [
+        {
+          "id": "br1",
+          "name": "Charm Bracelet",
+          "price": 3999,
+          "currency": "INR",
+          "material": "Sterling Silver",
+          "inStock": true,
+          "image": "/imagesJewelry/Bracelets1.jpg",
+          "description": "Silver bracelet with cute hanging charms."
+        },
+        {
+          "id": "br2",
+          "name": "Gold Chain Bracelet",
+          "price": 10999,
+          "currency": "INR",
+          "material": "18k Gold",
+          "inStock": true,
+          "image": "/imagesJewelry/Bracelets2.jpg",
+          "description": "Classic gold chain bracelet."
+        },
+        {
+          "id": "br3",
+          "name": "Pearl Bead Bracelet",
+          "price": 4999,
+          "currency": "INR",
+          "material": "Pearls, Alloy",
+          "inStock": true,
+          "image": "/imagesJewelry/Bracelets3.jpg",
+          "description": "Delicate bracelet with white pearls."
+        },
+        {
+          "id": "br4",
+          "name": "Rose Gold Cuff Bracelet",
+          "price": 5999,
+          "currency": "INR",
+          "material": "Rose Gold Plated",
+          "inStock": true,
+          "image": "/imagesJewelry/Bracelets4.jpg",
+          "description": "Sleek rose gold cuff bracelet."
+        },
+        {
+          "id": "br5",
+          "name": "Diamond Tennis Bracelet",
+          "price": 45999,
+          "currency": "INR",
+          "material": "Gold, Diamond",
+          "inStock": false,
+          "image": "/imagesJewelry/Bracelets5.jpg",
+          "description": "Elegant diamond tennis bracelet."
+        },
+        {
+          "id": "br6",
+          "name": "Silver Oxidised Bracelet",
+          "price": 2499,
+          "currency": "INR",
+          "material": "Oxidised Silver",
+          "inStock": true,
+          "image": "/imagesJewelry/Bracelets6.jpg",
+          "description": "Handmade oxidised silver bracelet."
+        },
+        {
+          "id": "br7",
+          "name": "Kundan Bridal Bracelet",
+          "price": 12999,
+          "currency": "INR",
+          "material": "Gold-plated, Kundan",
+          "inStock": true,
+          "image": "/imagesJewelry/Bracelets7.jpg",
+          "description": "Heavy kundan work bridal bracelet."
+        },
+        {
+          "id": "br8",
+          "name": "Crystal Charm Bracelet",
+          "price": 1999,
+          "currency": "INR",
+          "material": "Crystals, Alloy",
+          "inStock": true,
+          "image": "/imagesJewelry/Bracelets8.jpg",
+          "description": "Trendy crystal charm bracelet."
+        },
+        {
+          "id": "br9",
+          "name": "Temple Jewellery Bracelet",
+          "price": 14999,
+          "currency": "INR",
+          "material": "Gold, Semi-Precious Stones",
+          "inStock": true,
+          "image": "/imagesJewelry/Bracelets9.jpg",
+          "description": "Traditional temple design bracelet."
+        }
+      ]
+    }
+  ]
+}

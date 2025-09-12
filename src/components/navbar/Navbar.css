@@ -1,0 +1,10 @@
+.nav-route{
+    color: #000;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.nav-route:hover{
+    color: red;
+}

@@ -1,0 +1,43 @@
+.c-pointer {
+  cursor: pointer;
+}
+.loginpage {
+  background-image: url(../images/log1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.log-user-input {
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+.log-user-input::placeholder{
+  color: #000;
+}
+.log-email-input {
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+.log-email-input::placeholder {
+  color: #000;
+}
+.log-pass-input {
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+.log-pass-input::placeholder {
+  color: #000;
+}
+.fw-5 {
+  font-weight: 500;
+}
+.fw-7 {
+  font-weight: 700;
+}
