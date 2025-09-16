@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Jewelry Store Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a React.js-based frontend for an online jewelry store. It provides a responsive interface for browsing products, managing a cart, user login/signup, and viewing profiles.
 
-## Available Scripts
+## 🚀 Poject Link
 
-In the project directory, you can run:
+Open https://aurora-jewellery.netlify.app/ to view it in your browser.
 
-### `npm start`
+## 🚀 Features
 
-Runs the app in the development mode.\
-Open [https://aurora-jewellery.netlify.app/](https://aurora-jewellery.netlify.app/) to view it in your browser.
+. Browse jewelry categories: bangles, bracelets, earrings, necklaces, and rings
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+. Add/remove items from the shopping cart
 
-### `npm test`
+. User authentication (login & signup)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+. Profile management
 
-### `npm run build`
+. Responsive design with modern UI components
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+. Centralized state management using React Context API
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📦 Dependencies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+. React
 
-### `npm run eject`
+. React Router (if navigation is included)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+. Context API for state management
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+. CSS for styling (with modular structure)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🤝 Contributing
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+. Fork the repository
 
-## Learn More
+. Create a new feature branch (git checkout -b feature-xyz)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+. Commit your changes (git commit -m 'Add feature xyz')
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+. Push to your branch (git push origin feature-xyz)
 
-### Code Splitting
+. Open a Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📜 License
 
-### Analyzing the Bundle Size
+.This project is licensed under the MIT License — feel free to use and modify it for your own projects.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
